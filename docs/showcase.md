@@ -20,5 +20,5 @@ Want to see what Quartz can do? Here are some cool community gardens:
 - [🧠🌳 Chad's Mind Garden](https://www.chadly.net/)
 - [Pedro MC Fernandes's Topo da Mente](https://www.pmcf.xyz/topo-da-mente/)
 - [Mau Camargo's Notkesto](https://notes.camargomau.com/)
-
+- [My Journey to learning about LLMs](https://codewithllms.tech/)
 If you want to see your own on here, submit a [Pull Request adding yourself to this file](https://github.com/jackyzha0/quartz/blob/v4/docs/showcase.md)!
